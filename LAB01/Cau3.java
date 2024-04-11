@@ -1,5 +1,5 @@
 
-package LAB01;
+package LAB01; //thanhgfgfgfgf
 import java.util.Scanner;
 import java.lang.Math;
 public class Cau3 {
