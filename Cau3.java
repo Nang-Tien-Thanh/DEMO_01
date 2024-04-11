@@ -2,7 +2,7 @@
 package LAB01;
 import java.util.Scanner;
 import java.lang.Math;
-public class Cau3 {
+public class Cau3 {//fgfgfgf
     private float tu,mau;
     //ham lay tu so
     public float LayTu(){return tu;}
